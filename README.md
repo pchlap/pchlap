@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=PhilChlap)](https://github.com/gazf/github-readme-twitter)
+
 <!--
 **pchlap/pchlap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
