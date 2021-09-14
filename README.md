@@ -1,7 +1,7 @@
 # Welcome to my GitHub 👋
 
 
-<table style="width:100%">
+<table style="width:100%; border:none">
 <tr>
 <td style="width: 50%">
 
@@ -11,10 +11,10 @@ My passion is translating Medical Physics and Radiation Oncology research into t
 
 I'm co-creator of [platipy](https://github.com/pyplati/platipy), a toolkit for medical image analysis in Python. I'm also currently a maintainer of the fantastic [pymedphys](https://github.com/pymedphys/pymedphys) project!
 
-<table style="width:100%">
+<table style="width:100%; border:none">
 <tr>
 <td style="width: 50%">
-<p align="left"> <a href="https://twitter.com/philchlap" target="blank"><img src="https://img.shields.io/twitter/follow/philchlap?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/philchlap" target="blank"><img src="https://img.shields.io/twitter/follow/philchlap?logo=twitter&style=for-the-badge" alt="pchlap" /></a> </p>
 
 </td>
 <td style="text-align: center">
@@ -43,9 +43,7 @@ I'm co-creator of [platipy](https://github.com/pyplati/platipy), a toolkit for m
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
-
 
 <a href="https://github.com/pchlap/pchlap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pchlap&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pchlap&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Phil Chlap's GitHub Stats" />
 </a>
