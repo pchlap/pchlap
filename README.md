@@ -1,6 +1,6 @@
 # Welcome to my GitHub 👋
 
-I'm Phil, a Software Engineer in Sydney, Australia, working for the University of New South Wales at the Ingham Institute by Liverpool Hospital in Sydney's South-West.
+I'm Phil, a Software Engineer/Computer Scientist in Sydney, Australia, working for the University of New South Wales at the Ingham Institute by Liverpool Hospital in Sydney's South-West.
 
 My passion is translating Medical Physics and Radiation Oncology research into the clinic while making as much code Open Source as possible. My research interests include Medical Image Analysis and Artifical Intelligence, in particular auto-segmentation of medical images.
 
