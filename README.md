@@ -1,9 +1,10 @@
 # Welcome to my GitHub 👋
 
 
-<table style="width:880px; border:0px">
+<table style="width:100%; border:none!important;">
 <tr>
-<td style="width:440px">
+<td style="border:none!important;">
+<img width="441" height="1">
 
 I'm Phil, a Software Engineer in Sydney, Australia, working for the University of New South Wales at the Ingham Institute by Liverpool Hospital in Sydney's South-West.
 
@@ -11,7 +12,7 @@ My passion is translating Medical Physics and Radiation Oncology research into t
 
 I'm co-creator of [platipy](https://github.com/pyplati/platipy), a toolkit for medical image analysis in Python. I'm also currently a maintainer of the fantastic [pymedphys](https://github.com/pymedphys/pymedphys) project!
 
-<table style="width:100%; border:0px">
+<table style="border:0px">
 <tr>
 <td>
 <p align="left"> <a href="https://twitter.com/philchlap" target="blank"><img src="https://img.shields.io/twitter/follow/philchlap?logo=twitter&style=for-the-badge" alt="pchlap" /></a> </p>
@@ -27,7 +28,8 @@ I'm co-creator of [platipy](https://github.com/pyplati/platipy), a toolkit for m
 </tr>
 </table>
 </td>
-<td style="text-align: center; width:440px">
+<td style="text-align: center; border:none!important;">
+<img width="441" height="1">
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=PhilChlap)](https://github.com/gazf/github-readme-twitter)
 
