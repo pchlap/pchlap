@@ -7,7 +7,7 @@ My passion is translating Medical Physics and Radiation Oncology research into t
 I'm co-creator of [platipy](https://github.com/pyplati/platipy), a toolkit for medical image analysis in Python. I'm also currently a maintainer of the fantastic [pymedphys](https://github.com/pymedphys/pymedphys) project!
 
 [![Phil Chlap's Twitter](https://img.shields.io/twitter/follow/philchlap?logo=twitter&style=for-the-badge)](https://twitter.com/PhilChlap)
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/phil-chlap-24a08318)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phil-chlap-24a08318)
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=PhilChlap)](https://github.com/gazf/github-readme-twitter)
 
