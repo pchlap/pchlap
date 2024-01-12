@@ -1,10 +1,10 @@
 # Welcome to my GitHub 👋
 
-I'm Phil, a Software Engineer/Computer Scientist in Sydney, Australia, working for the University of New South Wales at the Ingham Institute by Liverpool Hospital in Sydney's South-West.
+I'm Phil, a Software/Machine Learning Engineer living in Austin, Texas, currently working for [Radformation](https://www.radformation.com).
 
-My passion is translating Medical Physics and Radiation Oncology research into the clinic while making as much code Open Source as possible. My research interests include Medical Image Analysis and Artifical Intelligence, in particular auto-segmentation of medical images.
+My passion is translating Medical Physics and Radiation Oncology research into the clinic. My research interests include Medical Image Analysis and Artificial Intelligence, in particular auto-segmentation of medical images.
 
-I'm co-creator of [platipy](https://github.com/pyplati/platipy), a toolkit for medical image analysis in Python. I'm also currently a maintainer of the fantastic [pymedphys](https://github.com/pymedphys/pymedphys) project!
+I'm co-creator of [PlatiPy](https://github.com/pyplati/platipy), a toolkit for medical image analysis in Python. I also co-created [PyDicer](https://github.com/AustralianCancerDataNetwork/pydicer) which allows researchers to streamline the conversion and analysis of Radiotherapy DICOM data. I'm also currently a maintainer of the fantastic [pymedphys](https://github.com/pymedphys/pymedphys) project!
 
 [![Phil Chlap's Twitter](https://img.shields.io/twitter/follow/philchlap?logo=twitter&style=for-the-badge)](https://twitter.com/PhilChlap)
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phil-chlap-24a08318)
